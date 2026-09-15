@@ -1,0 +1,9 @@
+{
+  "name": "meu-portfolio-api",
+  "version": "1.0.0",
+  "description": "API do assistente IA do portfólio de Ramses Pierre",
+  "type": "module",
+  "dependencies": {
+    "openai": "^6.0.0"
+  }
+}
